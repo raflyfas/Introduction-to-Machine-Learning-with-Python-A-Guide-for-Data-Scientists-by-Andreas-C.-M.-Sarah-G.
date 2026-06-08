@@ -1,6 +1,8 @@
 # Introduction to Machine Learning with Python
 
-Repository ini berisi catatan, contoh kode, visualisasi, dan rangkuman praktis yang disusun berdasarkan buku **"Introduction to Machine Learning with Python: A Guide for Data Scientists"** by Andreas C. Müller & Sarah Guido. 
+Repository ini berisi catatan, contoh kode, visualisasi, dan rangkuman praktis yang disusun berdasarkan buku **"Introduction to Machine Learning with Python: A Guide for Data Scientists"** by Andreas C. Müller & Sarah Guido.
+
+Link buku : https://drive.google.com/file/d/1bitlEHE6Syb__5SUA7VOCVKGvzbhYpqO/view?usp=drive_link
 
 Repository ini dibuat untuk kebutuhan pembelajaran mata kuliah Machine Learning (ML) dan berfokus pada implementasi praktis menggunakan library `scikit-learn`.
 
